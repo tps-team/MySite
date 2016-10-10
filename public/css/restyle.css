@@ -1,0 +1,41 @@
+/* 
+    Author     : mrsteel
+*/
+#USERTOCKEN a {
+    color: greenyellow;
+    font-size: 24px;
+}
+
+.news_strange{
+    padding-left: 20px;
+}
+
+/*#HELLO{
+    padding-left: 300px;
+    padding-right: 300px;
+}*/
+
+#HELLO pre{
+    color: red;
+    text-align: center;
+    
+}
+
+.news {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.inst {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#my_footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#torchalo {
+     float: right;
+}
